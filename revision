@@ -1,0 +1,13 @@
+//Key Areas of Revision:
+//Time and Space Complexity:
+
+Time Complexity: It’s crucial to understand how the runtime of an algorithm changes with the size of the input. The common notations include:
+O(n): Linear time
+O(log n): Logarithmic time
+O(n^2): Quadratic time
+Space Complexity: This measures the amount of memory an algorithm uses relative to the input size. Efficient algorithms manage both time and space effectively.
+Arrays:
+
+Basics: How arrays are stored in contiguous memory locations, allowing constant-time access to elements via indexing.
+Operations: From initialization, input/output operations, to advanced functions like fill().
+Function Interactions: Understanding how to pass arrays to functions and the concepts of passing by value vs. passing by reference.
